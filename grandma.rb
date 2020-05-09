@@ -4,8 +4,6 @@ if speak == "whatever I say"
 end 
 if "CAN YOU HEAR ME?" == "CAN YOU HEAR ME?".lowercase 
   return "NO, NOT SINCE 1938!"
-end 
-end 
 else == "I LOVE YOU GRANDMA" 
   puts "I LOVE YOU TOO PUMPKIN!"
 end
