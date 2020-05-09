@@ -1,3 +1,4 @@
+def speak_to_grandma
 speak = "grandma"
 if speak == "whatever I say"
   puts "HUH?! SPEAK UP, SONNY!"
@@ -7,7 +8,7 @@ if "CAN YOU HEAR ME?" == "CAN YOU HEAR ME?".downcase
 else  
   puts "I LOVE YOU TOO PUMPKIN!"
 end
-
+end
 
 
 
