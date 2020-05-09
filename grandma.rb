@@ -1,4 +1,4 @@
-speak = grandma
+speak = "grandma"
 if speak == "whatever I say"
   puts "HUH?! SPEAK UP, SONNY!"
 end 
